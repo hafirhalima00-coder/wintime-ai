@@ -1,0 +1,12 @@
+﻿{
+  "name": "task-processor-api",
+  "version": "1.0.0",
+  "description": "A simple task processor API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
